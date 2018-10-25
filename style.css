@@ -1,0 +1,106 @@
+body {
+    background: #EBEBEB;
+    background-image: url("images/beach.jpg");
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color: #8B4513;
+    font-size: 17px;
+    line-height: 1.6em;
+    }
+h1, h2, h3{
+  font-family: 'Courier', monospace;
+}
+
+h1{
+  color: #FF0000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif-light;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: 300;
+  color: #800080;
+}
+
+h1{
+  font-size: 30px;
+
+}
+
+h3{
+  font-size: 25px;
+  font-weight: 300;
+}
+
+a{
+
+  color: #00FF00;
+  text-decoration: none;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+a:hover{
+  color: #DD5555;
+  text-decoration: none;
+}
+
+table{
+  font-weight: 300;
+  font-size: 25px;
+  line-height: 1.6em;
+}
+
+.container{
+  width: 900px;
+  margin: 30px auto;
+}
+
+
+.card {
+  background: #FFA07A;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.6)),;
+  padding: 40px;
+  opacity: 0.9;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  box-shadow: 3px 3px 4px 2px rgba(0, 3, 5, 0.8);
+}
+
+.text-center {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 20px;
+  color: #00FF00;
+}
+
+.profile {
+border-radius: 60%;
+width: 300px;
+box-shadow: 3px 3px 4px 2px rgba(4, 2, 6, 0.2);
+}
+
+.movies {
+border-radius: 60%;
+width: 200px;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+
+
